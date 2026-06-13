@@ -29,14 +29,14 @@ Project ini bertujuan untuk mempelajari dan mengimplementasikan operasi dasar pa
 ## Struktur Folder Project
 
 Tugas Eksperimen Operasi Dasar pada Sinyal/
-notebook/
+1. notebook/
 Tugas Eksperimen Operasi Dasar pada Sinyal.ipynb
-images/
+2. images/
 citra_yang_digunakan.jpg
-report/
+3. report/
 Laporan_Tugas Eksperimen Operasi Dasar pada Sinyal_Meutia Mirah Asih_452024618092_C1.pdf
-README.md
-requirements.txt
+4. README.md
+5. requirements.txt
 
 ## Ringkasan Hasil Eksperimen
 
